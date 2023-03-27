@@ -1,0 +1,30 @@
+Arguments: 
+  /usr/local/Cellar/node/19.5.0/bin/node /usr/local/Cellar/yarn/1.22.19/libexec/bin/yarn.js add -D tailwindcss
+
+PATH: 
+  /Users/bekir/.bun/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/bekir/.bun/bin:/Users/bekir/Library/Application Support/JetBrains/Toolbox/scripts:/Users/bekir/Desktop/front-end-weekly/week-1/node_modules/.bin:/Users/bekir/Library/Application Support/JetBrains/Toolbox/scripts
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  19.5.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, scandir '/Users/bekir/Desktop/front-end-weekly/week-1/node_modules/@ampproject'
+
+npm manifest: 
+  {
+    "name": "week-1",
+    "version": "0.1.0",
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
